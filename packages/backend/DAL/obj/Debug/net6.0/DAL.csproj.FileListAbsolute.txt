@@ -1,0 +1,56 @@
+C:\Users\הדסה לוגסי\Desktop\פ\DAL\bin\Debug\net6.0\DAL.deps.json
+C:\Users\הדסה לוגסי\Desktop\פ\DAL\bin\Debug\net6.0\DAL.runtimeconfig.json
+C:\Users\הדסה לוגסי\Desktop\פ\DAL\bin\Debug\net6.0\DAL.dll
+C:\Users\הדסה לוגסי\Desktop\פ\DAL\bin\Debug\net6.0\DAL.pdb
+C:\Users\הדסה לוגסי\Desktop\פ\DAL\obj\Debug\net6.0\DAL.csproj.AssemblyReference.cache
+C:\Users\הדסה לוגסי\Desktop\פ\DAL\obj\Debug\net6.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\הדסה לוגסי\Desktop\פ\DAL\obj\Debug\net6.0\DAL.AssemblyInfoInputs.cache
+C:\Users\הדסה לוגסי\Desktop\פ\DAL\obj\Debug\net6.0\DAL.AssemblyInfo.cs
+C:\Users\הדסה לוגסי\Desktop\פ\DAL\obj\Debug\net6.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\הדסה לוגסי\Desktop\פ\DAL\obj\Debug\net6.0\DAL.dll
+C:\Users\הדסה לוגסי\Desktop\פ\DAL\obj\Debug\net6.0\refint\DAL.dll
+C:\Users\הדסה לוגסי\Desktop\פ\DAL\obj\Debug\net6.0\DAL.pdb
+C:\Users\הדסה לוגסי\Desktop\פ\DAL\obj\Debug\net6.0\DAL.genruntimeconfig.cache
+C:\Users\הדסה לוגסי\Desktop\פ\DAL\obj\Debug\net6.0\ref\DAL.dll
+C:\הדסה לוגסי\לימודים\תכנות שנה ב\API\שיעורי בית\פרויקט חנוכה\פרויקט הדסה לוגסי\DAL\obj\Debug\net6.0\DAL.csproj.AssemblyReference.cache
+C:\הדסה לוגסי\לימודים\תכנות שנה ב\API\שיעורי בית\פרויקט חנוכה\פרויקט הדסה לוגסי\DAL\obj\Debug\net6.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\הדסה לוגסי\לימודים\תכנות שנה ב\API\שיעורי בית\פרויקט חנוכה\פרויקט הדסה לוגסי\DAL\obj\Debug\net6.0\DAL.AssemblyInfoInputs.cache
+C:\הדסה לוגסי\לימודים\תכנות שנה ב\API\שיעורי בית\פרויקט חנוכה\פרויקט הדסה לוגסי\DAL\obj\Debug\net6.0\DAL.AssemblyInfo.cs
+C:\הדסה לוגסי\לימודים\תכנות שנה ב\API\שיעורי בית\פרויקט חנוכה\פרויקט הדסה לוגסי\DAL\obj\Debug\net6.0\DAL.csproj.CoreCompileInputs.cache
+C:\הדסה לוגסי\לימודים\תכנות שנה ב\API\שיעורי בית\פרויקט חנוכה\פרויקט הדסה לוגסי\DAL\obj\Debug\net6.0\DAL.dll
+C:\הדסה לוגסי\לימודים\תכנות שנה ב\API\שיעורי בית\פרויקט חנוכה\פרויקט הדסה לוגסי\DAL\obj\Debug\net6.0\refint\DAL.dll
+C:\הדסה לוגסי\לימודים\תכנות שנה ב\API\שיעורי בית\פרויקט חנוכה\פרויקט הדסה לוגסי\DAL\obj\Debug\net6.0\DAL.pdb
+C:\הדסה לוגסי\לימודים\תכנות שנה ב\API\שיעורי בית\פרויקט חנוכה\פרויקט הדסה לוגסי\DAL\bin\Debug\net6.0\DAL.deps.json
+C:\הדסה לוגסי\לימודים\תכנות שנה ב\API\שיעורי בית\פרויקט חנוכה\פרויקט הדסה לוגסי\DAL\bin\Debug\net6.0\DAL.runtimeconfig.json
+C:\הדסה לוגסי\לימודים\תכנות שנה ב\API\שיעורי בית\פרויקט חנוכה\פרויקט הדסה לוגסי\DAL\bin\Debug\net6.0\DAL.dll
+C:\הדסה לוגסי\לימודים\תכנות שנה ב\API\שיעורי בית\פרויקט חנוכה\פרויקט הדסה לוגסי\DAL\bin\Debug\net6.0\DAL.pdb
+C:\הדסה לוגסי\לימודים\תכנות שנה ב\API\שיעורי בית\פרויקט חנוכה\פרויקט הדסה לוגסי\DAL\obj\Debug\net6.0\DAL.genruntimeconfig.cache
+C:\הדסה לוגסי\לימודים\תכנות שנה ב\API\שיעורי בית\פרויקט חנוכה\פרויקט הדסה לוגסי\DAL\obj\Debug\net6.0\ref\DAL.dll
+C:\Users\הדסה לוגסי\Desktop\פרויקט הדסה לוגסי\DAL\bin\Debug\net6.0\DAL.deps.json
+C:\Users\הדסה לוגסי\Desktop\פרויקט הדסה לוגסי\DAL\bin\Debug\net6.0\DAL.runtimeconfig.json
+C:\Users\הדסה לוגסי\Desktop\פרויקט הדסה לוגסי\DAL\bin\Debug\net6.0\DAL.dll
+C:\Users\הדסה לוגסי\Desktop\פרויקט הדסה לוגסי\DAL\bin\Debug\net6.0\DAL.pdb
+C:\Users\הדסה לוגסי\Desktop\פרויקט הדסה לוגסי\DAL\obj\Debug\net6.0\DAL.csproj.AssemblyReference.cache
+C:\Users\הדסה לוגסי\Desktop\פרויקט הדסה לוגסי\DAL\obj\Debug\net6.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\הדסה לוגסי\Desktop\פרויקט הדסה לוגסי\DAL\obj\Debug\net6.0\DAL.AssemblyInfoInputs.cache
+C:\Users\הדסה לוגסי\Desktop\פרויקט הדסה לוגסי\DAL\obj\Debug\net6.0\DAL.AssemblyInfo.cs
+C:\Users\הדסה לוגסי\Desktop\פרויקט הדסה לוגסי\DAL\obj\Debug\net6.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\הדסה לוגסי\Desktop\פרויקט הדסה לוגסי\DAL\obj\Debug\net6.0\DAL.dll
+C:\Users\הדסה לוגסי\Desktop\פרויקט הדסה לוגסי\DAL\obj\Debug\net6.0\refint\DAL.dll
+C:\Users\הדסה לוגסי\Desktop\פרויקט הדסה לוגסי\DAL\obj\Debug\net6.0\DAL.pdb
+C:\Users\הדסה לוגסי\Desktop\פרויקט הדסה לוגסי\DAL\obj\Debug\net6.0\DAL.genruntimeconfig.cache
+C:\Users\הדסה לוגסי\Desktop\פרויקט הדסה לוגסי\DAL\obj\Debug\net6.0\ref\DAL.dll
+C:\הדסה לוגסי\לימודים\תכנות שנה ב\API\שיעורי בית\פרויקט חנוכה\נכון לעכשיו פרויקט הדסה לוגסי\DAL\bin\Debug\net6.0\DAL.deps.json
+C:\הדסה לוגסי\לימודים\תכנות שנה ב\API\שיעורי בית\פרויקט חנוכה\נכון לעכשיו פרויקט הדסה לוגסי\DAL\bin\Debug\net6.0\DAL.runtimeconfig.json
+C:\הדסה לוגסי\לימודים\תכנות שנה ב\API\שיעורי בית\פרויקט חנוכה\נכון לעכשיו פרויקט הדסה לוגסי\DAL\bin\Debug\net6.0\DAL.dll
+C:\הדסה לוגסי\לימודים\תכנות שנה ב\API\שיעורי בית\פרויקט חנוכה\נכון לעכשיו פרויקט הדסה לוגסי\DAL\bin\Debug\net6.0\DAL.pdb
+C:\הדסה לוגסי\לימודים\תכנות שנה ב\API\שיעורי בית\פרויקט חנוכה\נכון לעכשיו פרויקט הדסה לוגסי\DAL\obj\Debug\net6.0\DAL.csproj.AssemblyReference.cache
+C:\הדסה לוגסי\לימודים\תכנות שנה ב\API\שיעורי בית\פרויקט חנוכה\נכון לעכשיו פרויקט הדסה לוגסי\DAL\obj\Debug\net6.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\הדסה לוגסי\לימודים\תכנות שנה ב\API\שיעורי בית\פרויקט חנוכה\נכון לעכשיו פרויקט הדסה לוגסי\DAL\obj\Debug\net6.0\DAL.AssemblyInfoInputs.cache
+C:\הדסה לוגסי\לימודים\תכנות שנה ב\API\שיעורי בית\פרויקט חנוכה\נכון לעכשיו פרויקט הדסה לוגסי\DAL\obj\Debug\net6.0\DAL.AssemblyInfo.cs
+C:\הדסה לוגסי\לימודים\תכנות שנה ב\API\שיעורי בית\פרויקט חנוכה\נכון לעכשיו פרויקט הדסה לוגסי\DAL\obj\Debug\net6.0\DAL.csproj.CoreCompileInputs.cache
+C:\הדסה לוגסי\לימודים\תכנות שנה ב\API\שיעורי בית\פרויקט חנוכה\נכון לעכשיו פרויקט הדסה לוגסי\DAL\obj\Debug\net6.0\DAL.dll
+C:\הדסה לוגסי\לימודים\תכנות שנה ב\API\שיעורי בית\פרויקט חנוכה\נכון לעכשיו פרויקט הדסה לוגסי\DAL\obj\Debug\net6.0\refint\DAL.dll
+C:\הדסה לוגסי\לימודים\תכנות שנה ב\API\שיעורי בית\פרויקט חנוכה\נכון לעכשיו פרויקט הדסה לוגסי\DAL\obj\Debug\net6.0\DAL.pdb
+C:\הדסה לוגסי\לימודים\תכנות שנה ב\API\שיעורי בית\פרויקט חנוכה\נכון לעכשיו פרויקט הדסה לוגסי\DAL\obj\Debug\net6.0\DAL.genruntimeconfig.cache
+C:\הדסה לוגסי\לימודים\תכנות שנה ב\API\שיעורי בית\פרויקט חנוכה\נכון לעכשיו פרויקט הדסה לוגסי\DAL\obj\Debug\net6.0\ref\DAL.dll

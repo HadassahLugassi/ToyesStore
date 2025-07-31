@@ -1,0 +1,294 @@
+C:\Users\הדסה לוגסי\Desktop\פ\ServerShop\obj\Debug\net6.0\ServerShop.csproj.AssemblyReference.cache
+C:\Users\הדסה לוגסי\Desktop\פ\ServerShop\obj\Debug\net6.0\ServerShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\הדסה לוגסי\Desktop\פ\ServerShop\obj\Debug\net6.0\ServerShop.AssemblyInfoInputs.cache
+C:\Users\הדסה לוגסי\Desktop\פ\ServerShop\obj\Debug\net6.0\ServerShop.AssemblyInfo.cs
+C:\Users\הדסה לוגסי\Desktop\פ\ServerShop\obj\Debug\net6.0\ServerShop.csproj.CoreCompileInputs.cache
+C:\Users\הדסה לוגסי\Desktop\פ\ServerShop\obj\Debug\net6.0\ServerShop.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\הדסה לוגסי\Desktop\פ\ServerShop\obj\Debug\net6.0\ServerShop.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\הדסה לוגסי\Desktop\פ\ServerShop\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\הדסה לוגסי\Desktop\פ\ServerShop\bin\Debug\net6.0\appsettings.json
+C:\Users\הדסה לוגסי\Desktop\פ\ServerShop\bin\Debug\net6.0\ServerShop.exe
+C:\Users\הדסה לוגסי\Desktop\פ\ServerShop\bin\Debug\net6.0\ServerShop.deps.json
+C:\Users\הדסה לוגסי\Desktop\פ\ServerShop\bin\Debug\net6.0\ServerShop.runtimeconfig.json
+C:\Users\הדסה לוגסי\Desktop\פ\ServerShop\bin\Debug\net6.0\ServerShop.dll
+C:\Users\הדסה לוגסי\Desktop\פ\ServerShop\bin\Debug\net6.0\ServerShop.pdb
+C:\Users\הדסה לוגסי\Desktop\פ\ServerShop\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\הדסה לוגסי\Desktop\פ\ServerShop\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\הדסה לוגסי\Desktop\פ\ServerShop\bin\Debug\net6.0\Humanizer.dll
+C:\Users\הדסה לוגסי\Desktop\פ\ServerShop\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\הדסה לוגסי\Desktop\פ\ServerShop\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\הדסה לוגסי\Desktop\פ\ServerShop\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\הדסה לוגסי\Desktop\פ\ServerShop\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\הדסה לוגסי\Desktop\פ\ServerShop\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\הדסה לוגסי\Desktop\פ\ServerShop\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\הדסה לוגסי\Desktop\פ\ServerShop\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\הדסה לוגסי\Desktop\פ\ServerShop\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\הדסה לוגסי\Desktop\פ\ServerShop\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\הדסה לוגסי\Desktop\פ\ServerShop\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\הדסה לוגסי\Desktop\פ\ServerShop\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\הדסה לוגסי\Desktop\פ\ServerShop\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\הדסה לוגסי\Desktop\פ\ServerShop\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\הדסה לוגסי\Desktop\פ\ServerShop\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\הדסה לוגסי\Desktop\פ\ServerShop\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\הדסה לוגסי\Desktop\פ\ServerShop\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\הדסה לוגסי\Desktop\פ\ServerShop\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\הדסה לוגסי\Desktop\פ\ServerShop\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\הדסה לוגסי\Desktop\פ\ServerShop\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\הדסה לוגסי\Desktop\פ\ServerShop\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\הדסה לוגסי\Desktop\פ\ServerShop\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\הדסה לוגסי\Desktop\פ\ServerShop\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\הדסה לוגסי\Desktop\פ\ServerShop\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\הדסה לוגסי\Desktop\פ\ServerShop\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\הדסה לוגסי\Desktop\פ\ServerShop\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\הדסה לוגסי\Desktop\פ\ServerShop\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\הדסה לוגסי\Desktop\פ\ServerShop\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\הדסה לוגסי\Desktop\פ\ServerShop\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\הדסה לוגסי\Desktop\פ\ServerShop\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\הדסה לוגסי\Desktop\פ\ServerShop\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\הדסה לוגסי\Desktop\פ\ServerShop\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\הדסה לוגסי\Desktop\פ\ServerShop\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\הדסה לוגסי\Desktop\פ\ServerShop\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\הדסה לוגסי\Desktop\פ\ServerShop\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\הדסה לוגסי\Desktop\פ\ServerShop\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\הדסה לוגסי\Desktop\פ\ServerShop\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\הדסה לוגסי\Desktop\פ\ServerShop\bin\Debug\net6.0\DAL.dll
+C:\Users\הדסה לוגסי\Desktop\פ\ServerShop\bin\Debug\net6.0\DTO.dll
+C:\Users\הדסה לוגסי\Desktop\פ\ServerShop\bin\Debug\net6.0\DAL.pdb
+C:\Users\הדסה לוגסי\Desktop\פ\ServerShop\bin\Debug\net6.0\DTO.pdb
+C:\Users\הדסה לוגסי\Desktop\פ\ServerShop\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\הדסה לוגסי\Desktop\פ\ServerShop\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\הדסה לוגסי\Desktop\פ\ServerShop\obj\Debug\net6.0\staticwebassets\msbuild.ServerShop.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\הדסה לוגסי\Desktop\פ\ServerShop\obj\Debug\net6.0\staticwebassets\msbuild.build.ServerShop.props
+C:\Users\הדסה לוגסי\Desktop\פ\ServerShop\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ServerShop.props
+C:\Users\הדסה לוגסי\Desktop\פ\ServerShop\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ServerShop.props
+C:\Users\הדסה לוגסי\Desktop\פ\ServerShop\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\הדסה לוגסי\Desktop\פ\ServerShop\obj\Debug\net6.0\scopedcss\bundle\ServerShop.styles.css
+C:\Users\הדסה לוגסי\Desktop\פ\ServerShop\obj\Debug\net6.0\ServerShop.csproj.Up2Date
+C:\Users\הדסה לוגסי\Desktop\פ\ServerShop\obj\Debug\net6.0\ServerShop.dll
+C:\Users\הדסה לוגסי\Desktop\פ\ServerShop\obj\Debug\net6.0\refint\ServerShop.dll
+C:\Users\הדסה לוגסי\Desktop\פ\ServerShop\obj\Debug\net6.0\ServerShop.pdb
+C:\Users\הדסה לוגסי\Desktop\פ\ServerShop\obj\Debug\net6.0\ServerShop.genruntimeconfig.cache
+C:\Users\הדסה לוגסי\Desktop\פ\ServerShop\obj\Debug\net6.0\ref\ServerShop.dll
+C:\Users\הדסה לוגסי\Desktop\פ\ServerShop\bin\Debug\net6.0\BLL.dll
+C:\Users\הדסה לוגסי\Desktop\פ\ServerShop\bin\Debug\net6.0\BLL.pdb
+C:\הדסה לוגסי\לימודים\תכנות שנה ב\API\שיעורי בית\פרויקט חנוכה\פרויקט הדסה לוגסי\ServerShop\obj\Debug\net6.0\ServerShop.csproj.AssemblyReference.cache
+C:\הדסה לוגסי\לימודים\תכנות שנה ב\API\שיעורי בית\פרויקט חנוכה\פרויקט הדסה לוגסי\ServerShop\obj\Debug\net6.0\ServerShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\הדסה לוגסי\לימודים\תכנות שנה ב\API\שיעורי בית\פרויקט חנוכה\פרויקט הדסה לוגסי\ServerShop\obj\Debug\net6.0\ServerShop.AssemblyInfoInputs.cache
+C:\הדסה לוגסי\לימודים\תכנות שנה ב\API\שיעורי בית\פרויקט חנוכה\פרויקט הדסה לוגסי\ServerShop\obj\Debug\net6.0\ServerShop.AssemblyInfo.cs
+C:\הדסה לוגסי\לימודים\תכנות שנה ב\API\שיעורי בית\פרויקט חנוכה\פרויקט הדסה לוגסי\ServerShop\obj\Debug\net6.0\ServerShop.csproj.CoreCompileInputs.cache
+C:\הדסה לוגסי\לימודים\תכנות שנה ב\API\שיעורי בית\פרויקט חנוכה\פרויקט הדסה לוגסי\ServerShop\obj\Debug\net6.0\ServerShop.MvcApplicationPartsAssemblyInfo.cs
+C:\הדסה לוגסי\לימודים\תכנות שנה ב\API\שיעורי בית\פרויקט חנוכה\פרויקט הדסה לוגסי\ServerShop\obj\Debug\net6.0\ServerShop.MvcApplicationPartsAssemblyInfo.cache
+C:\הדסה לוגסי\לימודים\תכנות שנה ב\API\שיעורי בית\פרויקט חנוכה\פרויקט הדסה לוגסי\ServerShop\obj\Debug\net6.0\ServerShop.dll
+C:\הדסה לוגסי\לימודים\תכנות שנה ב\API\שיעורי בית\פרויקט חנוכה\פרויקט הדסה לוגסי\ServerShop\obj\Debug\net6.0\refint\ServerShop.dll
+C:\הדסה לוגסי\לימודים\תכנות שנה ב\API\שיעורי בית\פרויקט חנוכה\פרויקט הדסה לוגסי\ServerShop\obj\Debug\net6.0\ServerShop.pdb
+C:\הדסה לוגסי\לימודים\תכנות שנה ב\API\שיעורי בית\פרויקט חנוכה\פרויקט הדסה לוגסי\ServerShop\bin\Debug\net6.0\appsettings.Development.json
+C:\הדסה לוגסי\לימודים\תכנות שנה ב\API\שיעורי בית\פרויקט חנוכה\פרויקט הדסה לוגסי\ServerShop\bin\Debug\net6.0\appsettings.json
+C:\הדסה לוגסי\לימודים\תכנות שנה ב\API\שיעורי בית\פרויקט חנוכה\פרויקט הדסה לוגסי\ServerShop\bin\Debug\net6.0\ServerShop.exe
+C:\הדסה לוגסי\לימודים\תכנות שנה ב\API\שיעורי בית\פרויקט חנוכה\פרויקט הדסה לוגסי\ServerShop\bin\Debug\net6.0\ServerShop.deps.json
+C:\הדסה לוגסי\לימודים\תכנות שנה ב\API\שיעורי בית\פרויקט חנוכה\פרויקט הדסה לוגסי\ServerShop\bin\Debug\net6.0\ServerShop.runtimeconfig.json
+C:\הדסה לוגסי\לימודים\תכנות שנה ב\API\שיעורי בית\פרויקט חנוכה\פרויקט הדסה לוגסי\ServerShop\bin\Debug\net6.0\ServerShop.dll
+C:\הדסה לוגסי\לימודים\תכנות שנה ב\API\שיעורי בית\פרויקט חנוכה\פרויקט הדסה לוגסי\ServerShop\bin\Debug\net6.0\ServerShop.pdb
+C:\הדסה לוגסי\לימודים\תכנות שנה ב\API\שיעורי בית\פרויקט חנוכה\פרויקט הדסה לוגסי\ServerShop\bin\Debug\net6.0\AutoMapper.dll
+C:\הדסה לוגסי\לימודים\תכנות שנה ב\API\שיעורי בית\פרויקט חנוכה\פרויקט הדסה לוגסי\ServerShop\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\הדסה לוגסי\לימודים\תכנות שנה ב\API\שיעורי בית\פרויקט חנוכה\פרויקט הדסה לוגסי\ServerShop\bin\Debug\net6.0\Humanizer.dll
+C:\הדסה לוגסי\לימודים\תכנות שנה ב\API\שיעורי בית\פרויקט חנוכה\פרויקט הדסה לוגסי\ServerShop\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\הדסה לוגסי\לימודים\תכנות שנה ב\API\שיעורי בית\פרויקט חנוכה\פרויקט הדסה לוגסי\ServerShop\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\הדסה לוגסי\לימודים\תכנות שנה ב\API\שיעורי בית\פרויקט חנוכה\פרויקט הדסה לוגסי\ServerShop\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\הדסה לוגסי\לימודים\תכנות שנה ב\API\שיעורי בית\פרויקט חנוכה\פרויקט הדסה לוגסי\ServerShop\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\הדסה לוגסי\לימודים\תכנות שנה ב\API\שיעורי בית\פרויקט חנוכה\פרויקט הדסה לוגסי\ServerShop\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\הדסה לוגסי\לימודים\תכנות שנה ב\API\שיעורי בית\פרויקט חנוכה\פרויקט הדסה לוגסי\ServerShop\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\הדסה לוגסי\לימודים\תכנות שנה ב\API\שיעורי בית\פרויקט חנוכה\פרויקט הדסה לוגסי\ServerShop\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\הדסה לוגסי\לימודים\תכנות שנה ב\API\שיעורי בית\פרויקט חנוכה\פרויקט הדסה לוגסי\ServerShop\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\הדסה לוגסי\לימודים\תכנות שנה ב\API\שיעורי בית\פרויקט חנוכה\פרויקט הדסה לוגסי\ServerShop\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\הדסה לוגסי\לימודים\תכנות שנה ב\API\שיעורי בית\פרויקט חנוכה\פרויקט הדסה לוגסי\ServerShop\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\הדסה לוגסי\לימודים\תכנות שנה ב\API\שיעורי בית\פרויקט חנוכה\פרויקט הדסה לוגסי\ServerShop\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\הדסה לוגסי\לימודים\תכנות שנה ב\API\שיעורי בית\פרויקט חנוכה\פרויקט הדסה לוגסי\ServerShop\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\הדסה לוגסי\לימודים\תכנות שנה ב\API\שיעורי בית\פרויקט חנוכה\פרויקט הדסה לוגסי\ServerShop\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\הדסה לוגסי\לימודים\תכנות שנה ב\API\שיעורי בית\פרויקט חנוכה\פרויקט הדסה לוגסי\ServerShop\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\הדסה לוגסי\לימודים\תכנות שנה ב\API\שיעורי בית\פרויקט חנוכה\פרויקט הדסה לוגסי\ServerShop\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\הדסה לוגסי\לימודים\תכנות שנה ב\API\שיעורי בית\פרויקט חנוכה\פרויקט הדסה לוגסי\ServerShop\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\הדסה לוגסי\לימודים\תכנות שנה ב\API\שיעורי בית\פרויקט חנוכה\פרויקט הדסה לוגסי\ServerShop\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\הדסה לוגסי\לימודים\תכנות שנה ב\API\שיעורי בית\פרויקט חנוכה\פרויקט הדסה לוגסי\ServerShop\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\הדסה לוגסי\לימודים\תכנות שנה ב\API\שיעורי בית\פרויקט חנוכה\פרויקט הדסה לוגסי\ServerShop\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\הדסה לוגסי\לימודים\תכנות שנה ב\API\שיעורי בית\פרויקט חנוכה\פרויקט הדסה לוגסי\ServerShop\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\הדסה לוגסי\לימודים\תכנות שנה ב\API\שיעורי בית\פרויקט חנוכה\פרויקט הדסה לוגסי\ServerShop\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\הדסה לוגסי\לימודים\תכנות שנה ב\API\שיעורי בית\פרויקט חנוכה\פרויקט הדסה לוגסי\ServerShop\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\הדסה לוגסי\לימודים\תכנות שנה ב\API\שיעורי בית\פרויקט חנוכה\פרויקט הדסה לוגסי\ServerShop\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\הדסה לוגסי\לימודים\תכנות שנה ב\API\שיעורי בית\פרויקט חנוכה\פרויקט הדסה לוגסי\ServerShop\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\הדסה לוגסי\לימודים\תכנות שנה ב\API\שיעורי בית\פרויקט חנוכה\פרויקט הדסה לוגסי\ServerShop\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\הדסה לוגסי\לימודים\תכנות שנה ב\API\שיעורי בית\פרויקט חנוכה\פרויקט הדסה לוגסי\ServerShop\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\הדסה לוגסי\לימודים\תכנות שנה ב\API\שיעורי בית\פרויקט חנוכה\פרויקט הדסה לוגסי\ServerShop\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\הדסה לוגסי\לימודים\תכנות שנה ב\API\שיעורי בית\פרויקט חנוכה\פרויקט הדסה לוגסי\ServerShop\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\הדסה לוגסי\לימודים\תכנות שנה ב\API\שיעורי בית\פרויקט חנוכה\פרויקט הדסה לוגסי\ServerShop\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\הדסה לוגסי\לימודים\תכנות שנה ב\API\שיעורי בית\פרויקט חנוכה\פרויקט הדסה לוגסי\ServerShop\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\הדסה לוגסי\לימודים\תכנות שנה ב\API\שיעורי בית\פרויקט חנוכה\פרויקט הדסה לוגסי\ServerShop\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\הדסה לוגסי\לימודים\תכנות שנה ב\API\שיעורי בית\פרויקט חנוכה\פרויקט הדסה לוגסי\ServerShop\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\הדסה לוגסי\לימודים\תכנות שנה ב\API\שיעורי בית\פרויקט חנוכה\פרויקט הדסה לוגסי\ServerShop\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\הדסה לוגסי\לימודים\תכנות שנה ב\API\שיעורי בית\פרויקט חנוכה\פרויקט הדסה לוגסי\ServerShop\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\הדסה לוגסי\לימודים\תכנות שנה ב\API\שיעורי בית\פרויקט חנוכה\פרויקט הדסה לוגסי\ServerShop\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\הדסה לוגסי\לימודים\תכנות שנה ב\API\שיעורי בית\פרויקט חנוכה\פרויקט הדסה לוגסי\ServerShop\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\הדסה לוגסי\לימודים\תכנות שנה ב\API\שיעורי בית\פרויקט חנוכה\פרויקט הדסה לוגסי\ServerShop\bin\Debug\net6.0\BLL.dll
+C:\הדסה לוגסי\לימודים\תכנות שנה ב\API\שיעורי בית\פרויקט חנוכה\פרויקט הדסה לוגסי\ServerShop\bin\Debug\net6.0\DAL.dll
+C:\הדסה לוגסי\לימודים\תכנות שנה ב\API\שיעורי בית\פרויקט חנוכה\פרויקט הדסה לוגסי\ServerShop\bin\Debug\net6.0\DTO.dll
+C:\הדסה לוגסי\לימודים\תכנות שנה ב\API\שיעורי בית\פרויקט חנוכה\פרויקט הדסה לוגסי\ServerShop\bin\Debug\net6.0\BLL.pdb
+C:\הדסה לוגסי\לימודים\תכנות שנה ב\API\שיעורי בית\פרויקט חנוכה\פרויקט הדסה לוגסי\ServerShop\bin\Debug\net6.0\DAL.pdb
+C:\הדסה לוגסי\לימודים\תכנות שנה ב\API\שיעורי בית\פרויקט חנוכה\פרויקט הדסה לוגסי\ServerShop\bin\Debug\net6.0\DTO.pdb
+C:\הדסה לוגסי\לימודים\תכנות שנה ב\API\שיעורי בית\פרויקט חנוכה\פרויקט הדסה לוגסי\ServerShop\obj\Debug\net6.0\staticwebassets.build.json
+C:\הדסה לוגסי\לימודים\תכנות שנה ב\API\שיעורי בית\פרויקט חנוכה\פרויקט הדסה לוגסי\ServerShop\obj\Debug\net6.0\staticwebassets.development.json
+C:\הדסה לוגסי\לימודים\תכנות שנה ב\API\שיעורי בית\פרויקט חנוכה\פרויקט הדסה לוגסי\ServerShop\obj\Debug\net6.0\staticwebassets\msbuild.ServerShop.Microsoft.AspNetCore.StaticWebAssets.props
+C:\הדסה לוגסי\לימודים\תכנות שנה ב\API\שיעורי בית\פרויקט חנוכה\פרויקט הדסה לוגסי\ServerShop\obj\Debug\net6.0\staticwebassets\msbuild.build.ServerShop.props
+C:\הדסה לוגסי\לימודים\תכנות שנה ב\API\שיעורי בית\פרויקט חנוכה\פרויקט הדסה לוגסי\ServerShop\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ServerShop.props
+C:\הדסה לוגסי\לימודים\תכנות שנה ב\API\שיעורי בית\פרויקט חנוכה\פרויקט הדסה לוגסי\ServerShop\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ServerShop.props
+C:\הדסה לוגסי\לימודים\תכנות שנה ב\API\שיעורי בית\פרויקט חנוכה\פרויקט הדסה לוגסי\ServerShop\obj\Debug\net6.0\staticwebassets.pack.json
+C:\הדסה לוגסי\לימודים\תכנות שנה ב\API\שיעורי בית\פרויקט חנוכה\פרויקט הדסה לוגסי\ServerShop\obj\Debug\net6.0\scopedcss\bundle\ServerShop.styles.css
+C:\הדסה לוגסי\לימודים\תכנות שנה ב\API\שיעורי בית\פרויקט חנוכה\פרויקט הדסה לוגסי\ServerShop\obj\Debug\net6.0\ServerShop.csproj.Up2Date
+C:\הדסה לוגסי\לימודים\תכנות שנה ב\API\שיעורי בית\פרויקט חנוכה\פרויקט הדסה לוגסי\ServerShop\obj\Debug\net6.0\ServerShop.genruntimeconfig.cache
+C:\הדסה לוגסי\לימודים\תכנות שנה ב\API\שיעורי בית\פרויקט חנוכה\פרויקט הדסה לוגסי\ServerShop\obj\Debug\net6.0\ref\ServerShop.dll
+C:\Users\הדסה לוגסי\Desktop\פרויקט הדסה לוגסי\ServerShop\obj\Debug\net6.0\ServerShop.csproj.AssemblyReference.cache
+C:\Users\הדסה לוגסי\Desktop\פרויקט הדסה לוגסי\ServerShop\obj\Debug\net6.0\ServerShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\הדסה לוגסי\Desktop\פרויקט הדסה לוגסי\ServerShop\obj\Debug\net6.0\ServerShop.AssemblyInfoInputs.cache
+C:\Users\הדסה לוגסי\Desktop\פרויקט הדסה לוגסי\ServerShop\obj\Debug\net6.0\ServerShop.AssemblyInfo.cs
+C:\Users\הדסה לוגסי\Desktop\פרויקט הדסה לוגסי\ServerShop\obj\Debug\net6.0\ServerShop.csproj.CoreCompileInputs.cache
+C:\Users\הדסה לוגסי\Desktop\פרויקט הדסה לוגסי\ServerShop\obj\Debug\net6.0\ServerShop.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\הדסה לוגסי\Desktop\פרויקט הדסה לוגסי\ServerShop\obj\Debug\net6.0\ServerShop.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\הדסה לוגסי\Desktop\פרויקט הדסה לוגסי\ServerShop\obj\Debug\net6.0\ServerShop.dll
+C:\Users\הדסה לוגסי\Desktop\פרויקט הדסה לוגסי\ServerShop\obj\Debug\net6.0\refint\ServerShop.dll
+C:\Users\הדסה לוגסי\Desktop\פרויקט הדסה לוגסי\ServerShop\obj\Debug\net6.0\ServerShop.pdb
+C:\Users\הדסה לוגסי\Desktop\פרויקט הדסה לוגסי\ServerShop\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\הדסה לוגסי\Desktop\פרויקט הדסה לוגסי\ServerShop\bin\Debug\net6.0\appsettings.json
+C:\Users\הדסה לוגסי\Desktop\פרויקט הדסה לוגסי\ServerShop\bin\Debug\net6.0\ServerShop.staticwebassets.runtime.json
+C:\Users\הדסה לוגסי\Desktop\פרויקט הדסה לוגסי\ServerShop\bin\Debug\net6.0\ServerShop.exe
+C:\Users\הדסה לוגסי\Desktop\פרויקט הדסה לוגסי\ServerShop\bin\Debug\net6.0\ServerShop.deps.json
+C:\Users\הדסה לוגסי\Desktop\פרויקט הדסה לוגסי\ServerShop\bin\Debug\net6.0\ServerShop.runtimeconfig.json
+C:\Users\הדסה לוגסי\Desktop\פרויקט הדסה לוגסי\ServerShop\bin\Debug\net6.0\ServerShop.dll
+C:\Users\הדסה לוגסי\Desktop\פרויקט הדסה לוגסי\ServerShop\bin\Debug\net6.0\ServerShop.pdb
+C:\Users\הדסה לוגסי\Desktop\פרויקט הדסה לוגסי\ServerShop\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\הדסה לוגסי\Desktop\פרויקט הדסה לוגסי\ServerShop\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\הדסה לוגסי\Desktop\פרויקט הדסה לוגסי\ServerShop\bin\Debug\net6.0\Humanizer.dll
+C:\Users\הדסה לוגסי\Desktop\פרויקט הדסה לוגסי\ServerShop\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\הדסה לוגסי\Desktop\פרויקט הדסה לוגסי\ServerShop\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\הדסה לוגסי\Desktop\פרויקט הדסה לוגסי\ServerShop\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\הדסה לוגסי\Desktop\פרויקט הדסה לוגסי\ServerShop\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\הדסה לוגסי\Desktop\פרויקט הדסה לוגסי\ServerShop\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\הדסה לוגסי\Desktop\פרויקט הדסה לוגסי\ServerShop\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\הדסה לוגסי\Desktop\פרויקט הדסה לוגסי\ServerShop\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\הדסה לוגסי\Desktop\פרויקט הדסה לוגסי\ServerShop\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\הדסה לוגסי\Desktop\פרויקט הדסה לוגסי\ServerShop\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\הדסה לוגסי\Desktop\פרויקט הדסה לוגסי\ServerShop\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\הדסה לוגסי\Desktop\פרויקט הדסה לוגסי\ServerShop\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\הדסה לוגסי\Desktop\פרויקט הדסה לוגסי\ServerShop\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\הדסה לוגסי\Desktop\פרויקט הדסה לוגסי\ServerShop\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\הדסה לוגסי\Desktop\פרויקט הדסה לוגסי\ServerShop\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\הדסה לוגסי\Desktop\פרויקט הדסה לוגסי\ServerShop\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\הדסה לוגסי\Desktop\פרויקט הדסה לוגסי\ServerShop\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\הדסה לוגסי\Desktop\פרויקט הדסה לוגסי\ServerShop\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\הדסה לוגסי\Desktop\פרויקט הדסה לוגסי\ServerShop\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\הדסה לוגסי\Desktop\פרויקט הדסה לוגסי\ServerShop\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\הדסה לוגסי\Desktop\פרויקט הדסה לוגסי\ServerShop\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\הדסה לוגסי\Desktop\פרויקט הדסה לוגסי\ServerShop\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\הדסה לוגסי\Desktop\פרויקט הדסה לוגסי\ServerShop\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\הדסה לוגסי\Desktop\פרויקט הדסה לוגסי\ServerShop\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\הדסה לוגסי\Desktop\פרויקט הדסה לוגסי\ServerShop\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\הדסה לוגסי\Desktop\פרויקט הדסה לוגסי\ServerShop\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\הדסה לוגסי\Desktop\פרויקט הדסה לוגסי\ServerShop\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\הדסה לוגסי\Desktop\פרויקט הדסה לוגסי\ServerShop\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\הדסה לוגסי\Desktop\פרויקט הדסה לוגסי\ServerShop\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\הדסה לוגסי\Desktop\פרויקט הדסה לוגסי\ServerShop\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\הדסה לוגסי\Desktop\פרויקט הדסה לוגסי\ServerShop\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\הדסה לוגסי\Desktop\פרויקט הדסה לוגסי\ServerShop\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\הדסה לוגסי\Desktop\פרויקט הדסה לוגסי\ServerShop\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\הדסה לוגסי\Desktop\פרויקט הדסה לוגסי\ServerShop\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\הדסה לוגסי\Desktop\פרויקט הדסה לוגסי\ServerShop\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\הדסה לוגסי\Desktop\פרויקט הדסה לוגסי\ServerShop\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\הדסה לוגסי\Desktop\פרויקט הדסה לוגסי\ServerShop\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\הדסה לוגסי\Desktop\פרויקט הדסה לוגסי\ServerShop\bin\Debug\net6.0\BLL.dll
+C:\Users\הדסה לוגסי\Desktop\פרויקט הדסה לוגסי\ServerShop\bin\Debug\net6.0\DAL.dll
+C:\Users\הדסה לוגסי\Desktop\פרויקט הדסה לוגסי\ServerShop\bin\Debug\net6.0\DTO.dll
+C:\Users\הדסה לוגסי\Desktop\פרויקט הדסה לוגסי\ServerShop\bin\Debug\net6.0\BLL.pdb
+C:\Users\הדסה לוגסי\Desktop\פרויקט הדסה לוגסי\ServerShop\bin\Debug\net6.0\DAL.pdb
+C:\Users\הדסה לוגסי\Desktop\פרויקט הדסה לוגסי\ServerShop\bin\Debug\net6.0\DTO.pdb
+C:\Users\הדסה לוגסי\Desktop\פרויקט הדסה לוגסי\ServerShop\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\הדסה לוגסי\Desktop\פרויקט הדסה לוגסי\ServerShop\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\הדסה לוגסי\Desktop\פרויקט הדסה לוגסי\ServerShop\obj\Debug\net6.0\staticwebassets\msbuild.ServerShop.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\הדסה לוגסי\Desktop\פרויקט הדסה לוגסי\ServerShop\obj\Debug\net6.0\staticwebassets\msbuild.build.ServerShop.props
+C:\Users\הדסה לוגסי\Desktop\פרויקט הדסה לוגסי\ServerShop\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ServerShop.props
+C:\Users\הדסה לוגסי\Desktop\פרויקט הדסה לוגסי\ServerShop\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ServerShop.props
+C:\Users\הדסה לוגסי\Desktop\פרויקט הדסה לוגסי\ServerShop\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\הדסה לוגסי\Desktop\פרויקט הדסה לוגסי\ServerShop\obj\Debug\net6.0\scopedcss\bundle\ServerShop.styles.css
+C:\Users\הדסה לוגסי\Desktop\פרויקט הדסה לוגסי\ServerShop\obj\Debug\net6.0\ServerShop.csproj.Up2Date
+C:\Users\הדסה לוגסי\Desktop\פרויקט הדסה לוגסי\ServerShop\obj\Debug\net6.0\ServerShop.genruntimeconfig.cache
+C:\Users\הדסה לוגסי\Desktop\פרויקט הדסה לוגסי\ServerShop\obj\Debug\net6.0\ref\ServerShop.dll
+C:\הדסה לוגסי\לימודים\תכנות שנה ב\API\שיעורי בית\פרויקט חנוכה\נכון לעכשיו פרויקט הדסה לוגסי\ServerShop\bin\Debug\net6.0\appsettings.Development.json
+C:\הדסה לוגסי\לימודים\תכנות שנה ב\API\שיעורי בית\פרויקט חנוכה\נכון לעכשיו פרויקט הדסה לוגסי\ServerShop\bin\Debug\net6.0\appsettings.json
+C:\הדסה לוגסי\לימודים\תכנות שנה ב\API\שיעורי בית\פרויקט חנוכה\נכון לעכשיו פרויקט הדסה לוגסי\ServerShop\bin\Debug\net6.0\ServerShop.staticwebassets.runtime.json
+C:\הדסה לוגסי\לימודים\תכנות שנה ב\API\שיעורי בית\פרויקט חנוכה\נכון לעכשיו פרויקט הדסה לוגסי\ServerShop\bin\Debug\net6.0\ServerShop.exe
+C:\הדסה לוגסי\לימודים\תכנות שנה ב\API\שיעורי בית\פרויקט חנוכה\נכון לעכשיו פרויקט הדסה לוגסי\ServerShop\bin\Debug\net6.0\ServerShop.deps.json
+C:\הדסה לוגסי\לימודים\תכנות שנה ב\API\שיעורי בית\פרויקט חנוכה\נכון לעכשיו פרויקט הדסה לוגסי\ServerShop\bin\Debug\net6.0\ServerShop.runtimeconfig.json
+C:\הדסה לוגסי\לימודים\תכנות שנה ב\API\שיעורי בית\פרויקט חנוכה\נכון לעכשיו פרויקט הדסה לוגסי\ServerShop\bin\Debug\net6.0\ServerShop.dll
+C:\הדסה לוגסי\לימודים\תכנות שנה ב\API\שיעורי בית\פרויקט חנוכה\נכון לעכשיו פרויקט הדסה לוגסי\ServerShop\bin\Debug\net6.0\ServerShop.pdb
+C:\הדסה לוגסי\לימודים\תכנות שנה ב\API\שיעורי בית\פרויקט חנוכה\נכון לעכשיו פרויקט הדסה לוגסי\ServerShop\bin\Debug\net6.0\AutoMapper.dll
+C:\הדסה לוגסי\לימודים\תכנות שנה ב\API\שיעורי בית\פרויקט חנוכה\נכון לעכשיו פרויקט הדסה לוגסי\ServerShop\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\הדסה לוגסי\לימודים\תכנות שנה ב\API\שיעורי בית\פרויקט חנוכה\נכון לעכשיו פרויקט הדסה לוגסי\ServerShop\bin\Debug\net6.0\Humanizer.dll
+C:\הדסה לוגסי\לימודים\תכנות שנה ב\API\שיעורי בית\פרויקט חנוכה\נכון לעכשיו פרויקט הדסה לוגסי\ServerShop\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\הדסה לוגסי\לימודים\תכנות שנה ב\API\שיעורי בית\פרויקט חנוכה\נכון לעכשיו פרויקט הדסה לוגסי\ServerShop\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\הדסה לוגסי\לימודים\תכנות שנה ב\API\שיעורי בית\פרויקט חנוכה\נכון לעכשיו פרויקט הדסה לוגסי\ServerShop\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\הדסה לוגסי\לימודים\תכנות שנה ב\API\שיעורי בית\פרויקט חנוכה\נכון לעכשיו פרויקט הדסה לוגסי\ServerShop\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\הדסה לוגסי\לימודים\תכנות שנה ב\API\שיעורי בית\פרויקט חנוכה\נכון לעכשיו פרויקט הדסה לוגסי\ServerShop\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\הדסה לוגסי\לימודים\תכנות שנה ב\API\שיעורי בית\פרויקט חנוכה\נכון לעכשיו פרויקט הדסה לוגסי\ServerShop\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\הדסה לוגסי\לימודים\תכנות שנה ב\API\שיעורי בית\פרויקט חנוכה\נכון לעכשיו פרויקט הדסה לוגסי\ServerShop\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\הדסה לוגסי\לימודים\תכנות שנה ב\API\שיעורי בית\פרויקט חנוכה\נכון לעכשיו פרויקט הדסה לוגסי\ServerShop\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\הדסה לוגסי\לימודים\תכנות שנה ב\API\שיעורי בית\פרויקט חנוכה\נכון לעכשיו פרויקט הדסה לוגסי\ServerShop\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\הדסה לוגסי\לימודים\תכנות שנה ב\API\שיעורי בית\פרויקט חנוכה\נכון לעכשיו פרויקט הדסה לוגסי\ServerShop\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\הדסה לוגסי\לימודים\תכנות שנה ב\API\שיעורי בית\פרויקט חנוכה\נכון לעכשיו פרויקט הדסה לוגסי\ServerShop\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\הדסה לוגסי\לימודים\תכנות שנה ב\API\שיעורי בית\פרויקט חנוכה\נכון לעכשיו פרויקט הדסה לוגסי\ServerShop\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\הדסה לוגסי\לימודים\תכנות שנה ב\API\שיעורי בית\פרויקט חנוכה\נכון לעכשיו פרויקט הדסה לוגסי\ServerShop\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\הדסה לוגסי\לימודים\תכנות שנה ב\API\שיעורי בית\פרויקט חנוכה\נכון לעכשיו פרויקט הדסה לוגסי\ServerShop\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\הדסה לוגסי\לימודים\תכנות שנה ב\API\שיעורי בית\פרויקט חנוכה\נכון לעכשיו פרויקט הדסה לוגסי\ServerShop\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\הדסה לוגסי\לימודים\תכנות שנה ב\API\שיעורי בית\פרויקט חנוכה\נכון לעכשיו פרויקט הדסה לוגסי\ServerShop\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\הדסה לוגסי\לימודים\תכנות שנה ב\API\שיעורי בית\פרויקט חנוכה\נכון לעכשיו פרויקט הדסה לוגסי\ServerShop\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\הדסה לוגסי\לימודים\תכנות שנה ב\API\שיעורי בית\פרויקט חנוכה\נכון לעכשיו פרויקט הדסה לוגסי\ServerShop\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\הדסה לוגסי\לימודים\תכנות שנה ב\API\שיעורי בית\פרויקט חנוכה\נכון לעכשיו פרויקט הדסה לוגסי\ServerShop\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\הדסה לוגסי\לימודים\תכנות שנה ב\API\שיעורי בית\פרויקט חנוכה\נכון לעכשיו פרויקט הדסה לוגסי\ServerShop\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\הדסה לוגסי\לימודים\תכנות שנה ב\API\שיעורי בית\פרויקט חנוכה\נכון לעכשיו פרויקט הדסה לוגסי\ServerShop\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\הדסה לוגסי\לימודים\תכנות שנה ב\API\שיעורי בית\פרויקט חנוכה\נכון לעכשיו פרויקט הדסה לוגסי\ServerShop\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\הדסה לוגסי\לימודים\תכנות שנה ב\API\שיעורי בית\פרויקט חנוכה\נכון לעכשיו פרויקט הדסה לוגסי\ServerShop\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\הדסה לוגסי\לימודים\תכנות שנה ב\API\שיעורי בית\פרויקט חנוכה\נכון לעכשיו פרויקט הדסה לוגסי\ServerShop\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\הדסה לוגסי\לימודים\תכנות שנה ב\API\שיעורי בית\פרויקט חנוכה\נכון לעכשיו פרויקט הדסה לוגסי\ServerShop\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\הדסה לוגסי\לימודים\תכנות שנה ב\API\שיעורי בית\פרויקט חנוכה\נכון לעכשיו פרויקט הדסה לוגסי\ServerShop\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\הדסה לוגסי\לימודים\תכנות שנה ב\API\שיעורי בית\פרויקט חנוכה\נכון לעכשיו פרויקט הדסה לוגסי\ServerShop\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\הדסה לוגסי\לימודים\תכנות שנה ב\API\שיעורי בית\פרויקט חנוכה\נכון לעכשיו פרויקט הדסה לוגסי\ServerShop\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\הדסה לוגסי\לימודים\תכנות שנה ב\API\שיעורי בית\פרויקט חנוכה\נכון לעכשיו פרויקט הדסה לוגסי\ServerShop\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\הדסה לוגסי\לימודים\תכנות שנה ב\API\שיעורי בית\פרויקט חנוכה\נכון לעכשיו פרויקט הדסה לוגסי\ServerShop\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\הדסה לוגסי\לימודים\תכנות שנה ב\API\שיעורי בית\פרויקט חנוכה\נכון לעכשיו פרויקט הדסה לוגסי\ServerShop\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\הדסה לוגסי\לימודים\תכנות שנה ב\API\שיעורי בית\פרויקט חנוכה\נכון לעכשיו פרויקט הדסה לוגסי\ServerShop\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\הדסה לוגסי\לימודים\תכנות שנה ב\API\שיעורי בית\פרויקט חנוכה\נכון לעכשיו פרויקט הדסה לוגסי\ServerShop\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\הדסה לוגסי\לימודים\תכנות שנה ב\API\שיעורי בית\פרויקט חנוכה\נכון לעכשיו פרויקט הדסה לוגסי\ServerShop\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\הדסה לוגסי\לימודים\תכנות שנה ב\API\שיעורי בית\פרויקט חנוכה\נכון לעכשיו פרויקט הדסה לוגסי\ServerShop\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\הדסה לוגסי\לימודים\תכנות שנה ב\API\שיעורי בית\פרויקט חנוכה\נכון לעכשיו פרויקט הדסה לוגסי\ServerShop\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\הדסה לוגסי\לימודים\תכנות שנה ב\API\שיעורי בית\פרויקט חנוכה\נכון לעכשיו פרויקט הדסה לוגסי\ServerShop\bin\Debug\net6.0\BLL.dll
+C:\הדסה לוגסי\לימודים\תכנות שנה ב\API\שיעורי בית\פרויקט חנוכה\נכון לעכשיו פרויקט הדסה לוגסי\ServerShop\bin\Debug\net6.0\DAL.dll
+C:\הדסה לוגסי\לימודים\תכנות שנה ב\API\שיעורי בית\פרויקט חנוכה\נכון לעכשיו פרויקט הדסה לוגסי\ServerShop\bin\Debug\net6.0\DTO.dll
+C:\הדסה לוגסי\לימודים\תכנות שנה ב\API\שיעורי בית\פרויקט חנוכה\נכון לעכשיו פרויקט הדסה לוגסי\ServerShop\bin\Debug\net6.0\BLL.pdb
+C:\הדסה לוגסי\לימודים\תכנות שנה ב\API\שיעורי בית\פרויקט חנוכה\נכון לעכשיו פרויקט הדסה לוגסי\ServerShop\bin\Debug\net6.0\DAL.pdb
+C:\הדסה לוגסי\לימודים\תכנות שנה ב\API\שיעורי בית\פרויקט חנוכה\נכון לעכשיו פרויקט הדסה לוגסי\ServerShop\bin\Debug\net6.0\DTO.pdb
+C:\הדסה לוגסי\לימודים\תכנות שנה ב\API\שיעורי בית\פרויקט חנוכה\נכון לעכשיו פרויקט הדסה לוגסי\ServerShop\obj\Debug\net6.0\ServerShop.csproj.AssemblyReference.cache
+C:\הדסה לוגסי\לימודים\תכנות שנה ב\API\שיעורי בית\פרויקט חנוכה\נכון לעכשיו פרויקט הדסה לוגסי\ServerShop\obj\Debug\net6.0\ServerShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\הדסה לוגסי\לימודים\תכנות שנה ב\API\שיעורי בית\פרויקט חנוכה\נכון לעכשיו פרויקט הדסה לוגסי\ServerShop\obj\Debug\net6.0\ServerShop.AssemblyInfoInputs.cache
+C:\הדסה לוגסי\לימודים\תכנות שנה ב\API\שיעורי בית\פרויקט חנוכה\נכון לעכשיו פרויקט הדסה לוגסי\ServerShop\obj\Debug\net6.0\ServerShop.AssemblyInfo.cs
+C:\הדסה לוגסי\לימודים\תכנות שנה ב\API\שיעורי בית\פרויקט חנוכה\נכון לעכשיו פרויקט הדסה לוגסי\ServerShop\obj\Debug\net6.0\ServerShop.csproj.CoreCompileInputs.cache
+C:\הדסה לוגסי\לימודים\תכנות שנה ב\API\שיעורי בית\פרויקט חנוכה\נכון לעכשיו פרויקט הדסה לוגסי\ServerShop\obj\Debug\net6.0\ServerShop.MvcApplicationPartsAssemblyInfo.cs
+C:\הדסה לוגסי\לימודים\תכנות שנה ב\API\שיעורי בית\פרויקט חנוכה\נכון לעכשיו פרויקט הדסה לוגסי\ServerShop\obj\Debug\net6.0\ServerShop.MvcApplicationPartsAssemblyInfo.cache
+C:\הדסה לוגסי\לימודים\תכנות שנה ב\API\שיעורי בית\פרויקט חנוכה\נכון לעכשיו פרויקט הדסה לוגסי\ServerShop\obj\Debug\net6.0\staticwebassets.build.json
+C:\הדסה לוגסי\לימודים\תכנות שנה ב\API\שיעורי בית\פרויקט חנוכה\נכון לעכשיו פרויקט הדסה לוגסי\ServerShop\obj\Debug\net6.0\staticwebassets.development.json
+C:\הדסה לוגסי\לימודים\תכנות שנה ב\API\שיעורי בית\פרויקט חנוכה\נכון לעכשיו פרויקט הדסה לוגסי\ServerShop\obj\Debug\net6.0\staticwebassets\msbuild.ServerShop.Microsoft.AspNetCore.StaticWebAssets.props
+C:\הדסה לוגסי\לימודים\תכנות שנה ב\API\שיעורי בית\פרויקט חנוכה\נכון לעכשיו פרויקט הדסה לוגסי\ServerShop\obj\Debug\net6.0\staticwebassets\msbuild.build.ServerShop.props
+C:\הדסה לוגסי\לימודים\תכנות שנה ב\API\שיעורי בית\פרויקט חנוכה\נכון לעכשיו פרויקט הדסה לוגסי\ServerShop\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ServerShop.props
+C:\הדסה לוגסי\לימודים\תכנות שנה ב\API\שיעורי בית\פרויקט חנוכה\נכון לעכשיו פרויקט הדסה לוגסי\ServerShop\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ServerShop.props
+C:\הדסה לוגסי\לימודים\תכנות שנה ב\API\שיעורי בית\פרויקט חנוכה\נכון לעכשיו פרויקט הדסה לוגסי\ServerShop\obj\Debug\net6.0\staticwebassets.pack.json
+C:\הדסה לוגסי\לימודים\תכנות שנה ב\API\שיעורי בית\פרויקט חנוכה\נכון לעכשיו פרויקט הדסה לוגסי\ServerShop\obj\Debug\net6.0\scopedcss\bundle\ServerShop.styles.css
+C:\הדסה לוגסי\לימודים\תכנות שנה ב\API\שיעורי בית\פרויקט חנוכה\נכון לעכשיו פרויקט הדסה לוגסי\ServerShop\obj\Debug\net6.0\ServerShop.csproj.Up2Date
+C:\הדסה לוגסי\לימודים\תכנות שנה ב\API\שיעורי בית\פרויקט חנוכה\נכון לעכשיו פרויקט הדסה לוגסי\ServerShop\obj\Debug\net6.0\ServerShop.dll
+C:\הדסה לוגסי\לימודים\תכנות שנה ב\API\שיעורי בית\פרויקט חנוכה\נכון לעכשיו פרויקט הדסה לוגסי\ServerShop\obj\Debug\net6.0\refint\ServerShop.dll
+C:\הדסה לוגסי\לימודים\תכנות שנה ב\API\שיעורי בית\פרויקט חנוכה\נכון לעכשיו פרויקט הדסה לוגסי\ServerShop\obj\Debug\net6.0\ServerShop.pdb
+C:\הדסה לוגסי\לימודים\תכנות שנה ב\API\שיעורי בית\פרויקט חנוכה\נכון לעכשיו פרויקט הדסה לוגסי\ServerShop\obj\Debug\net6.0\ServerShop.genruntimeconfig.cache
+C:\הדסה לוגסי\לימודים\תכנות שנה ב\API\שיעורי בית\פרויקט חנוכה\נכון לעכשיו פרויקט הדסה לוגסי\ServerShop\obj\Debug\net6.0\ref\ServerShop.dll

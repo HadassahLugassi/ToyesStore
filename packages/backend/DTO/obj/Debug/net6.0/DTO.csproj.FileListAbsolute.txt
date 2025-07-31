@@ -1,0 +1,60 @@
+C:\Users\הדסה לוגסי\Desktop\פ\DTO\bin\Debug\net6.0\DTO.deps.json
+C:\Users\הדסה לוגסי\Desktop\פ\DTO\bin\Debug\net6.0\DTO.dll
+C:\Users\הדסה לוגסי\Desktop\פ\DTO\bin\Debug\net6.0\DTO.pdb
+C:\Users\הדסה לוגסי\Desktop\פ\DTO\bin\Debug\net6.0\DAL.dll
+C:\Users\הדסה לוגסי\Desktop\פ\DTO\bin\Debug\net6.0\DAL.pdb
+C:\Users\הדסה לוגסי\Desktop\פ\DTO\obj\Debug\net6.0\DTO.csproj.AssemblyReference.cache
+C:\Users\הדסה לוגסי\Desktop\פ\DTO\obj\Debug\net6.0\DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\הדסה לוגסי\Desktop\פ\DTO\obj\Debug\net6.0\DTO.AssemblyInfoInputs.cache
+C:\Users\הדסה לוגסי\Desktop\פ\DTO\obj\Debug\net6.0\DTO.AssemblyInfo.cs
+C:\Users\הדסה לוגסי\Desktop\פ\DTO\obj\Debug\net6.0\DTO.csproj.CoreCompileInputs.cache
+C:\Users\הדסה לוגסי\Desktop\פ\DTO\obj\Debug\net6.0\DTO.csproj.Up2Date
+C:\Users\הדסה לוגסי\Desktop\פ\DTO\obj\Debug\net6.0\DTO.dll
+C:\Users\הדסה לוגסי\Desktop\פ\DTO\obj\Debug\net6.0\refint\DTO.dll
+C:\Users\הדסה לוגסי\Desktop\פ\DTO\obj\Debug\net6.0\DTO.pdb
+C:\Users\הדסה לוגסי\Desktop\פ\DTO\obj\Debug\net6.0\ref\DTO.dll
+C:\הדסה לוגסי\לימודים\תכנות שנה ב\API\שיעורי בית\פרויקט חנוכה\פרויקט הדסה לוגסי\DTO\bin\Debug\net6.0\DTO.deps.json
+C:\הדסה לוגסי\לימודים\תכנות שנה ב\API\שיעורי בית\פרויקט חנוכה\פרויקט הדסה לוגסי\DTO\bin\Debug\net6.0\DTO.dll
+C:\הדסה לוגסי\לימודים\תכנות שנה ב\API\שיעורי בית\פרויקט חנוכה\פרויקט הדסה לוגסי\DTO\bin\Debug\net6.0\DTO.pdb
+C:\הדסה לוגסי\לימודים\תכנות שנה ב\API\שיעורי בית\פרויקט חנוכה\פרויקט הדסה לוגסי\DTO\bin\Debug\net6.0\DAL.dll
+C:\הדסה לוגסי\לימודים\תכנות שנה ב\API\שיעורי בית\פרויקט חנוכה\פרויקט הדסה לוגסי\DTO\bin\Debug\net6.0\DAL.pdb
+C:\הדסה לוגסי\לימודים\תכנות שנה ב\API\שיעורי בית\פרויקט חנוכה\פרויקט הדסה לוגסי\DTO\obj\Debug\net6.0\DTO.csproj.AssemblyReference.cache
+C:\הדסה לוגסי\לימודים\תכנות שנה ב\API\שיעורי בית\פרויקט חנוכה\פרויקט הדסה לוגסי\DTO\obj\Debug\net6.0\DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\הדסה לוגסי\לימודים\תכנות שנה ב\API\שיעורי בית\פרויקט חנוכה\פרויקט הדסה לוגסי\DTO\obj\Debug\net6.0\DTO.AssemblyInfoInputs.cache
+C:\הדסה לוגסי\לימודים\תכנות שנה ב\API\שיעורי בית\פרויקט חנוכה\פרויקט הדסה לוגסי\DTO\obj\Debug\net6.0\DTO.AssemblyInfo.cs
+C:\הדסה לוגסי\לימודים\תכנות שנה ב\API\שיעורי בית\פרויקט חנוכה\פרויקט הדסה לוגסי\DTO\obj\Debug\net6.0\DTO.csproj.CoreCompileInputs.cache
+C:\הדסה לוגסי\לימודים\תכנות שנה ב\API\שיעורי בית\פרויקט חנוכה\פרויקט הדסה לוגסי\DTO\obj\Debug\net6.0\DTO.csproj.Up2Date
+C:\הדסה לוגסי\לימודים\תכנות שנה ב\API\שיעורי בית\פרויקט חנוכה\פרויקט הדסה לוגסי\DTO\obj\Debug\net6.0\DTO.dll
+C:\הדסה לוגסי\לימודים\תכנות שנה ב\API\שיעורי בית\פרויקט חנוכה\פרויקט הדסה לוגסי\DTO\obj\Debug\net6.0\refint\DTO.dll
+C:\הדסה לוגסי\לימודים\תכנות שנה ב\API\שיעורי בית\פרויקט חנוכה\פרויקט הדסה לוגסי\DTO\obj\Debug\net6.0\DTO.pdb
+C:\הדסה לוגסי\לימודים\תכנות שנה ב\API\שיעורי בית\פרויקט חנוכה\פרויקט הדסה לוגסי\DTO\obj\Debug\net6.0\ref\DTO.dll
+C:\Users\הדסה לוגסי\Desktop\פרויקט הדסה לוגסי\DTO\bin\Debug\net6.0\DTO.deps.json
+C:\Users\הדסה לוגסי\Desktop\פרויקט הדסה לוגסי\DTO\bin\Debug\net6.0\DTO.dll
+C:\Users\הדסה לוגסי\Desktop\פרויקט הדסה לוגסי\DTO\bin\Debug\net6.0\DTO.pdb
+C:\Users\הדסה לוגסי\Desktop\פרויקט הדסה לוגסי\DTO\bin\Debug\net6.0\DAL.dll
+C:\Users\הדסה לוגסי\Desktop\פרויקט הדסה לוגסי\DTO\bin\Debug\net6.0\DAL.pdb
+C:\Users\הדסה לוגסי\Desktop\פרויקט הדסה לוגסי\DTO\obj\Debug\net6.0\DTO.csproj.AssemblyReference.cache
+C:\Users\הדסה לוגסי\Desktop\פרויקט הדסה לוגסי\DTO\obj\Debug\net6.0\DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\הדסה לוגסי\Desktop\פרויקט הדסה לוגסי\DTO\obj\Debug\net6.0\DTO.AssemblyInfoInputs.cache
+C:\Users\הדסה לוגסי\Desktop\פרויקט הדסה לוגסי\DTO\obj\Debug\net6.0\DTO.AssemblyInfo.cs
+C:\Users\הדסה לוגסי\Desktop\פרויקט הדסה לוגסי\DTO\obj\Debug\net6.0\DTO.csproj.CoreCompileInputs.cache
+C:\Users\הדסה לוגסי\Desktop\פרויקט הדסה לוגסי\DTO\obj\Debug\net6.0\DTO.csproj.Up2Date
+C:\Users\הדסה לוגסי\Desktop\פרויקט הדסה לוגסי\DTO\obj\Debug\net6.0\DTO.dll
+C:\Users\הדסה לוגסי\Desktop\פרויקט הדסה לוגסי\DTO\obj\Debug\net6.0\refint\DTO.dll
+C:\Users\הדסה לוגסי\Desktop\פרויקט הדסה לוגסי\DTO\obj\Debug\net6.0\DTO.pdb
+C:\Users\הדסה לוגסי\Desktop\פרויקט הדסה לוגסי\DTO\obj\Debug\net6.0\ref\DTO.dll
+C:\הדסה לוגסי\לימודים\תכנות שנה ב\API\שיעורי בית\פרויקט חנוכה\נכון לעכשיו פרויקט הדסה לוגסי\DTO\bin\Debug\net6.0\DTO.deps.json
+C:\הדסה לוגסי\לימודים\תכנות שנה ב\API\שיעורי בית\פרויקט חנוכה\נכון לעכשיו פרויקט הדסה לוגסי\DTO\bin\Debug\net6.0\DTO.dll
+C:\הדסה לוגסי\לימודים\תכנות שנה ב\API\שיעורי בית\פרויקט חנוכה\נכון לעכשיו פרויקט הדסה לוגסי\DTO\bin\Debug\net6.0\DTO.pdb
+C:\הדסה לוגסי\לימודים\תכנות שנה ב\API\שיעורי בית\פרויקט חנוכה\נכון לעכשיו פרויקט הדסה לוגסי\DTO\bin\Debug\net6.0\DAL.dll
+C:\הדסה לוגסי\לימודים\תכנות שנה ב\API\שיעורי בית\פרויקט חנוכה\נכון לעכשיו פרויקט הדסה לוגסי\DTO\bin\Debug\net6.0\DAL.pdb
+C:\הדסה לוגסי\לימודים\תכנות שנה ב\API\שיעורי בית\פרויקט חנוכה\נכון לעכשיו פרויקט הדסה לוגסי\DTO\obj\Debug\net6.0\DTO.csproj.AssemblyReference.cache
+C:\הדסה לוגסי\לימודים\תכנות שנה ב\API\שיעורי בית\פרויקט חנוכה\נכון לעכשיו פרויקט הדסה לוגסי\DTO\obj\Debug\net6.0\DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\הדסה לוגסי\לימודים\תכנות שנה ב\API\שיעורי בית\פרויקט חנוכה\נכון לעכשיו פרויקט הדסה לוגסי\DTO\obj\Debug\net6.0\DTO.AssemblyInfoInputs.cache
+C:\הדסה לוגסי\לימודים\תכנות שנה ב\API\שיעורי בית\פרויקט חנוכה\נכון לעכשיו פרויקט הדסה לוגסי\DTO\obj\Debug\net6.0\DTO.AssemblyInfo.cs
+C:\הדסה לוגסי\לימודים\תכנות שנה ב\API\שיעורי בית\פרויקט חנוכה\נכון לעכשיו פרויקט הדסה לוגסי\DTO\obj\Debug\net6.0\DTO.csproj.CoreCompileInputs.cache
+C:\הדסה לוגסי\לימודים\תכנות שנה ב\API\שיעורי בית\פרויקט חנוכה\נכון לעכשיו פרויקט הדסה לוגסי\DTO\obj\Debug\net6.0\DTO.csproj.Up2Date
+C:\הדסה לוגסי\לימודים\תכנות שנה ב\API\שיעורי בית\פרויקט חנוכה\נכון לעכשיו פרויקט הדסה לוגסי\DTO\obj\Debug\net6.0\DTO.dll
+C:\הדסה לוגסי\לימודים\תכנות שנה ב\API\שיעורי בית\פרויקט חנוכה\נכון לעכשיו פרויקט הדסה לוגסי\DTO\obj\Debug\net6.0\refint\DTO.dll
+C:\הדסה לוגסי\לימודים\תכנות שנה ב\API\שיעורי בית\פרויקט חנוכה\נכון לעכשיו פרויקט הדסה לוגסי\DTO\obj\Debug\net6.0\DTO.pdb
+C:\הדסה לוגסי\לימודים\תכנות שנה ב\API\שיעורי בית\פרויקט חנוכה\נכון לעכשיו פרויקט הדסה לוגסי\DTO\obj\Debug\net6.0\ref\DTO.dll
